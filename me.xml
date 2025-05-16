@@ -10,4 +10,16 @@
     <fakultet>Iqtisodiyot</fakultet>
   </education>
  </educations>
+    <friend type="odam">
+  <ism>Farrux</ism>
+    <familiya>Tulqunov</familiya>
+  <educations>
+   <education type="school">
+     <nomi>115</nomi>
+    </education>
+   <education type="university">
+    <nomi>Texnika</nomi>
+    <fakultet>Elektr energetikasi</fakultet>
+  </educations>
+    </friend>
 </odam>
