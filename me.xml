@@ -1,8 +1,13 @@
 <odam>
     <ism>Zafar</ism>
     <familiya>Norjigitov</familiya>
-<education>
+ <educations>
+    <education type="school">
+     <nomi>115</nomi>
+    </education>
+  <education type="university">
     <nomi>Iqtisodiyot</nomi>
     <fakultet>Iqtisodiyot</fakultet>
-</education>
+  </education>
+ </educations>
 </odam>
